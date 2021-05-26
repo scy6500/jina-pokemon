@@ -1,0 +1,1 @@
+FROM jinahub/app.example.pokedexwithbit:0.0.1-0.9.20
